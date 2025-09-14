@@ -11,3 +11,6 @@ applying style to header 3
 applying style to header 5
 ## Header 6
 applying style to header 6
+
+## Header 7
+applying style to header 7
