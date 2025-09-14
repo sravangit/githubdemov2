@@ -6,3 +6,6 @@ applying style to header 2
 
 ## Header 3
 applying style to header 3
+
+## Header 4
+applying style to header 4
