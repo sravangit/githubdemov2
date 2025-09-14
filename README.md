@@ -9,3 +9,5 @@ applying style to header 3
 
 ## Header 5
 applying style to header 5
+## Header 6
+applying style to header 6
