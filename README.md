@@ -25,6 +25,3 @@ applying style to header 9
 ## Header 10
 applying style to header 10
 
-## Header 10
-applying style to header 10
-
